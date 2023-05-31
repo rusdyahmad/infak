@@ -27,11 +27,11 @@ Di bawah adalah senarai penyumbang bagi laman web/aplikasi masjid.org.my, bacala
 31/05/2023 09:54:59	Razzmir Ashraff\
 31/05/2023 09:57:23	Mohamad Naeem Khan\
 31/05/2023 09:58:09	Rahimi Rahman\
-31/05/2023 09:58:36	Fairos syuhada binti esa\
+31/05/2023 09:58:36	Fairos syuhada binti esa
 
 ### 30/05/2023
 30/05/2023 21:09:16 MUHAMMAD NUR IMRAN BIN ABDUL RASHID\
 30/05/2023 21:48:43 Siti Nur Afiqah\
 30/05/2023 22:29:13 Fitri\
 30/05/2023 22:39:25 ASILAH NAJAT BINTI SABAR\
-30/05/2023 23:12:35 MUHAMAD FIQRY SELAMAT\
+30/05/2023 23:12:35 MUHAMAD FIQRY SELAMAT
